@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/BigDaqXd/hydra-download/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BigDaqXd/hydra-download/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<div class="row"> 
+                    <div class="col-12"> 
+                        <div class="tab-content" id="pills-tabContent"> 
+                            <div class="tab-pane fade show active" id="pills-cloud" role="tabpanel" aria-labelledby="pills-cloud-tab"> 
+                                <div class="row align-items-center"> 
+                                    <div class="col-md-6"> 
+                                        <img src="images/app/2.png" class="img-fluid mx-auto d-block" alt=""> 
+                                    </div> 
+ 
+                                </div> 
+                            </div><!--covertapps--> 
+ 
+                            <div class="tab-pane fade" id="pills-smart" role="tabpanel" aria-labelledby="pills-smart-tab"> 
+                                <div class="row align-items-center"> 
+                                    <div class="col-md-6"> 
+                                        <img src="images/app/3.png" class="img-fluid mx-auto d-block" alt=""> 
+                                    </div> 
+ 
+                                </div> 
+                            </div> 
+ 
+                            <div class="tab-pane fade" id="pills-apps" role="tabpanel" aria-labelledby="pills-apps-tab"> 
+                                <div class="row align-items-center"> 
+                                    <div class="col-md-6"> 
+                                        <img src="images/app/4.png" class="img-fluid mx-auto d-block" alt=""> 
+                                    </div> 
+ 
+ 
+                                </div> 
+                            </div> 
+                        </div> 
+                    </div> 
+                </div> 
+            </div><!--covertapps--> 
+            <br><br> 
+        <hr> 
+        <footer class="footer footer-bar"> 
+            <div class="container text-center"> 
+                <div class="row align-items-center"> 
+                    <div class="col-sm-6"> 
+                        <div class="text-sm-left"> 
+                            <p class="mb-0">© Made With ❤️ by <a href="https://www.twitter.com/BigDaqisdad" target="_blank" class="text-success">Hydra</a>.</p> 
+                        </div> 
+                    </div> 
+ 
+                </div> 
+            </div> 
+        </footer> 
+ 
+ 
+        <!-- javascript --> 
+        <script src="js/jquery.min.js"></script> 
+        <script src="js/bootstrap.bundle.min.js"></script> 
+        <script src="js/jquery.easing.min.js"></script> 
+        <script src="js/scrollspy.min.js"></script> 
+        <!-- SLIDER --> 
+        <script src="js/owl.carousel.min.js"></script> 
+        <script src="js/owl.init.js"></script> 
+        <!-- Main Js --> 
+        <script src="js/app.js"></script> 
+        <script src="https://kit.fontawesome.com/yourcode.js"></script> 
+    </body> 
+ 
+</html>
